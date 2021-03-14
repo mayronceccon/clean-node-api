@@ -3,7 +3,7 @@
     "parserOptions": {
         "project": "./tsconfig.json"
     },
-    "rule": {
+    "rules": {
         "@typescript-eslint/stric-boolen-expressions": "off"
     }
 }
