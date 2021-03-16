@@ -1,4 +1,4 @@
 # Watch
 
 ## Next video
-* 4. Jest => 1. Configurando o Jest e criando scripts de testes.mp4
+* 6. SignUp API - Data Layer => 1. Criando o DbAddAccount e integrando com o Encrypter.mp4
