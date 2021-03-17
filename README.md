@@ -1,4 +1,5 @@
 # Watch
 
 ## Next video
-* 6. SignUp API - Data Layer => 1. Criando o DbAddAccount e integrando com o Encrypter.mp4
+* 7. SignUp API - Infra Layer
+    * 1. Craindo o BcryptAdapter e mockando o bcrypt.mp4
