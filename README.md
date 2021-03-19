@@ -1,5 +1,5 @@
 # Watch
 
 ## Next video
-* 7. SignUp API - Infra Layer
-    * 1. Craindo o BcryptAdapter e mockando o bcrypt.mp4
+* 8. SignUp API - Main Layer
+    * 1. Testando middlewares do express.mp4
