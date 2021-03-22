@@ -1,5 +1,5 @@
 # Watch
 
 ## Next video
-* 8. SignUp API - Main Layer
-    * 1. Testando middlewares do express.mp4
+* 9. Bônus
+    * 1. Testando a conexão com o MongoDb.mp4
