@@ -2,4 +2,4 @@
 
 ## Next video
 * 9. Bônus
-    * 1. Testando a conexão com o MongoDb.mp4
+    * 2. Aplicando o Design Pattern Decorator.mp4
